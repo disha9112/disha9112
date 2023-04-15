@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I'm a sophomore, pursuing **IPG-M.Tech in Information Technology** at **IIIT Gwalior**
+- 🔭 I'm a third-year student, pursuing **IPG-M.Tech in Information Technology** at **IIIT Gwalior**
 
 - 🌱 I’m currently learning **Machine Learning** and **Data Structures and Algorithms**
 
