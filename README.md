@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, I'm Disha Singh!</h1>
+<h1 align="center">Hello 👋, I'm Disha Singh!</h1>
 
 ## About Me
 
-- 🔭 I'm a third-year student, pursuing **IPG-M.Tech in Information Technology** at **IIIT Gwalior**
+- 🔭 I'm a fourth-year student, pursuing **IPG-M.Tech in Information Technology** at **IIIT Gwalior**
 
 - 🌱 I’m currently learning **Machine Learning** and **Data Structures and Algorithms**
 
